@@ -10,8 +10,8 @@ int main()
     std::cout << " Commit_1!_NewBranch\n";
     std::cout << " Commit_2!_NewBranch\n";
     std::cout << " Commit_3!_NewBranch\n";
-    
     std::cout << " Commit_3!_MASTER\n";
+    std::cout << " Commit and Push";
   
     return 0;
 }
